@@ -1,2 +1,2 @@
 # 2016_GWC_SIP
-print("Hello World")
+Girls Who Code - Summer Immersion Program Projects
